@@ -15,7 +15,7 @@
 
 
 <p align="center">
-<a href="https://telegram.dog/AniBlue_linZzz"><img alt="Telegram" src="https://img.shields.io/badge/Aadhi-2CA5E0?style=for-the-badge&logo=telegram&logoColor=green"/></a>
+<a href="https://telegram.dog/AniBlue_linZzz"><img alt="Telegram" src="https://img.shields.io/badge/AniBlue-2CA5E0?style=for-the-badge&logo=telegram&logoColor=green"/></a>
 </p>
 
 ### Heruko Deploy
